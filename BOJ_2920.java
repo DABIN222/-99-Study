@@ -23,7 +23,7 @@ public class Study02_Q2920 {
 		if (number[0]==1 && number[1]==2 && number[2]==3 && number[3]==4 && number[4]==5 && number[5]==6 && number[6] ==7 && number[7]==8 ) {
 			System.out.println("ascending");
 		} else if (number[0]==8 && number[1]==7 && number[2]==6 && number[3]==5 && number[4]==4 && number[5]==3 && number[6] ==2 && number[7]==1) {
-			System.out.println("desccending");
+			System.out.println("descending");
 		} else {
 			System.out.println("mixed");
 		}
